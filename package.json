@@ -13,12 +13,12 @@
 		"react-dom": "^18.2.0"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^1.7.3",
+		"@biomejs/biome": "1.8.3",
 		"@types/react": "^18.2.66",
 		"@types/react-dom": "^18.2.22",
-		"@vitejs/plugin-react": "^4.2.1",
-		"typescript": "^5.2.2",
-		"vite": "^5.2.0",
-		"vite-plugin-biome": "^1.0.9"
+		"@vitejs/plugin-react": "4.3.1",
+		"typescript": "5.5.3",
+		"vite": "5.3.3",
+		"vite-plugin-biome": "1.0.12"
 	}
 }
